@@ -1,8 +1,8 @@
 
-### Olá, eu sou a Maiara Lira 👋 
+### Olá, eu sou a <i> Maiara Lira 👋 </i>
 ### Padawan em Programação 💻
 ### Graduanda de ADS pelo IFPE 👩‍🎓
-### Filmes, livros, pets e 🦖
+### Filmes, livros, pets e  :sauropod:
 ### Atualmente estudando Java ☕
 <br>
 
@@ -33,6 +33,8 @@
 <img align="center" alt="mai-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mai-Csharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
-  <br>
 
-![Snake animation](https://github.com/MaiLira/MaiLira/blob/5e8fd1f617cf08fa1a71140e5de253a4fac3448c/README.md)
+
+ ![Snake animation](https://github.com/MaiLira/MaiLira/blob/output/github-contribution-grid-snake.svg)
+  
+  
