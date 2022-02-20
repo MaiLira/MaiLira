@@ -1,9 +1,9 @@
 
 ### Olá, eu sou a <i> Maiara Lira 👋 </i>
-### Padawan em Programação 💻
-### Graduanda de ADS pelo IFPE 👩‍🎓
-### Filmes, livros, pets e  :sauropod:
-### Atualmente estudando Java ☕
+<br> Padawan em Programação 💻
+<br> Graduanda de ADS pelo IFPE 👩‍🎓
+<br> Filmes, livros, pets e  :sauropod:
+<br> Atualmente estudando Java ☕
 <br>
 
 ### 📢 A procura de oportunidades profissionais para me desenvolver melhor.
