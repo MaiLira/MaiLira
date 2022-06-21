@@ -3,7 +3,6 @@
 <br> Padawan em Programação 💻
 <br> Graduanda de ADS pelo IFPE 👩‍🎓
 <br> Filmes, livros, pets e  :sauropod:
-<br> Atualmente estudando Java ☕
 <br>
 
 ### 📢 A procura de oportunidades profissionais para me desenvolver melhor.
