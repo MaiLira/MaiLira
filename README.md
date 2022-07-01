@@ -1,7 +1,7 @@
 
 ### Olá, eu sou a <i> Maiara Lira 👋 </i>
 <br> Padawan em Programação 💻
-<br> Graduanda de ADS pelo IFPE 👩‍🎓
+<br> Graduanda de Sistemas de Informação pela UFPE 👩‍🎓
 <br> Filmes, livros, pets e  :sauropod:
 <br>
 
