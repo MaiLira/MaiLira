@@ -5,7 +5,6 @@
 <br> Filmes, livros, pets e  :sauropod:
 <br>
 
-### 📢 A procura de oportunidades profissionais para me desenvolver melhor.
 
 ### 📫 Para contato: 
 <br>
