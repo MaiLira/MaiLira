@@ -1,8 +1,13 @@
 
-### Olá, eu sou a <i> Maiara Lira 👋 </i>
-<br> Padawan em Programação 💻
-<br> Graduanda de Sistemas de Informação pela UFPE 👩‍🎓
-<br> Filmes, livros, pets e  :sauropod:
+<img src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif" width="250">   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C00F98&width=600&lines=Ol%C3%A1+%F0%9F%91%8B+sou+a+Maiara+Lira+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%93%9A;Sou+acad%C3%AAmica+de+Sistemas+de+Informa%C3%A7%C3%A3o;Sejam+muito+bem-vindos(as)+!!!)](https://git.io/typing-svg)
+
+<p align="center"> 
+  
+- Padawan em Programação 💻
+-  UFPE :mortar_board: 👩‍🎓
+- Filmes, livros, pets e  :sauropod:
+  
+</p>
 <br>
 
 
