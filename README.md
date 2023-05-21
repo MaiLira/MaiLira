@@ -8,6 +8,7 @@
 - Atualmente: Analista de dados e monitoramento, futura Cientista de dados👩🏻‍💻📈
 - Em busca de trocar dicas e compartilhar conhecimento =)
 - Sempre aberta a novas amizades, networking e oportunidades :v:
+ - Defensora do open source 👊🤖
 - Filmes, livros, pets e  :sauropod:
   
 </p>
