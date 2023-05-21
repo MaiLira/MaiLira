@@ -4,8 +4,10 @@
 <p align="center"> 
   
 - Padawan em Programação 💻
--  UFPE :mortar_board: 👩‍🎓
+- Graduanda de Sistemas de Informação no [Cin (Centro de Informática da UFPE)](https://portal.cin.ufpe.br/)  :mortar_board: 👩‍🎓
 - Atualmente: Analista de dados e monitoramento, futura Cientista de dados👩🏻‍💻📈
+- Em busca de trocar dicas e compartilhar conhecimento =)
+- Sempre aberta a novas amizades, networking e oportunidades :v:
 - Filmes, livros, pets e  :sauropod:
   
 </p>
