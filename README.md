@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif" width="250">   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C00F98&width=600&lines=Ol%C3%A1+%F0%9F%91%8B+sou+a+Maiara+Lira+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%93%9A;Sou+acad%C3%AAmica+de+Sistemas+de+Informa%C3%A7%C3%A3o;Sejam+muito+bem-vindos(as)+!!!)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif" width="200">   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C00F98&width=600&lines=Ol%C3%A1+%F0%9F%91%8B+sou+a+Maiara+Lira+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%93%9A;Sou+acad%C3%AAmica+de+Sistemas+de+Informa%C3%A7%C3%A3o;Sejam+muito+bem-vindos(as)+!!!)](https://git.io/typing-svg)
 
 <p align="center"> 
   
