@@ -5,6 +5,7 @@
   
 - Padawan em Programação 💻
 -  UFPE :mortar_board: 👩‍🎓
+- Atualmente: Analista de dados e monitoramento, futura Cientista de dados👩🏻‍💻📈
 - Filmes, livros, pets e  :sauropod:
   
 </p>
@@ -21,20 +22,37 @@
 
 <div>
   <a href="https://github.com/MaiLira">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Mailira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mailira&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Mailira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mailira&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-### TECNOLOGIAS 
+
+<h3>💻 Linguagens & Frameworks</h3>
 
 <div style="display: inline_block"><br>
- <img align="center" alt="mai-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="mai-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mai-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mai-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="mai-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mai-Csharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
+  <h3>🛠️ Ferramentas que eu uso no dia a dia</h3>
+
+
+<p align="left">
+<code><img title="Zabbix" alt="zabbix" width="60px" src="https://gitlab.com/uploads/-/system/project/avatar/16219887/zabbix-150x150-1.png" /></code>
+<code><img title="Grafana" alt="grafana" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
+<code><img title="bash" alt="bash" width="60px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/></code>
+<code><img title="Git" alt="git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
+<code><img title="Linux" alt="linux" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></code>
+<code><img title="Python" alt="python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
+<code><img title="Teams" alt="teams" width="60px" src="https://docs.microsoft.com/media/logos/logo_MSTeams.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="AWS" alt="amazon" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
+
+</p> 
 
  ![Snake animation](https://github.com/MaiLira/MaiLira/blob/output/github-contribution-grid-snake.svg)
   
