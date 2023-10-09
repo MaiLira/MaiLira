@@ -12,7 +12,6 @@
  - Defensora do open source 👊🤖
 - Filmes, livros, pets e  :sauropod:
 </p>
-<br>
 
 ### 📫 Para contato: 
 <br>
@@ -24,10 +23,12 @@
 
 <div>
   <a href="https://github.com/MaiLira">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mailira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mailira&layout=compact&langs_count=7&theme=onedark"/>
-</div>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MaiLira&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiLira&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <br>
+  <img height="264px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiLira&theme=onedark&hide_border=false"/>
 
+</div>
 
 <h3>💻 Linguagens & Frameworks</h3>
 
