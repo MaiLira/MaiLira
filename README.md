@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/wCcB5mM/1a64654b-840b-49c4-865b-e3d3fef34126.jpg" alt="1a64654b-840b-49c4-865b-e3d3fef34126" border="0" width="400"> <br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C00F98&width=600&lines=Ol%C3%A1+%F0%9F%91%8B+sou+a+Maiara+Lira+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%93%9A;Sou+acad%C3%AAmica+de+Sistemas+de+Informa%C3%A7%C3%A3o;Sejam+muito+bem-vindos(as)+!!!)](https://git.io/typing-svg)
 
 <p align="center"> 
