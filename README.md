@@ -10,7 +10,7 @@
 - Em busca de trocar dicas e compartilhar conhecimento =)
 - Sempre aberta a novas amizades, networking e oportunidades :v:
  - Defensora do open source 👊🤖
-- Filmes, livros, pets e  :sauropod:
+- Filmes, livros, pets 
 </p>
 
 ### 📫 Para contato: 
@@ -44,16 +44,14 @@
 
 
 <p align="left">
-<code><img title="Zabbix" alt="zabbix" width="60px" src="https://gitlab.com/uploads/-/system/project/avatar/16219887/zabbix-150x150-1.png" /></code>
+<code><img title="Linux" alt="linux" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></code>
+<code><img title="Python" alt="python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
+<code><img title="AWS" alt="amazon" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
+<code><img title="Zabbix" alt="zabbix" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg" /></code>
 <code><img title="Grafana" alt="grafana" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
 <code><img title="bash" alt="bash" width="60px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/></code>
 <code><img title="Git" alt="git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
-<code><img title="Linux" alt="linux" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></code>
-<code><img title="Python" alt="python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
-<code><img title="Teams" alt="teams" width="60px" src="https://docs.microsoft.com/media/logos/logo_MSTeams.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code><img title="AWS" alt="amazon" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
+
 
 </p> 
 
