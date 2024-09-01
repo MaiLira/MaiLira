@@ -6,7 +6,7 @@
   
 - Padawan em Programação 💻
 - Graduanda de Sistemas de Informação no [Cin (Centro de Informática da UFPE)](https://portal.cin.ufpe.br/)  :mortar_board: 👩‍🎓
-- Atualmente: Analista de dados e monitoramento, futura Cientista de dados👩🏻‍💻📈
+- Interesse em: DevOps | Engenharia de dados | IA
 - Em busca de trocar dicas e compartilhar conhecimento =)
 - Sempre aberta a novas amizades, networking e oportunidades :v:
  - Defensora do open source 👊🤖
@@ -24,8 +24,6 @@
 <div>
   <a href="https://github.com/MaiLira">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MaiLira&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiLira&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <br>
   <img height="264px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiLira&theme=onedark&hide_border=false"/>
 
 </div>
