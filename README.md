@@ -20,8 +20,8 @@ check_need("Need Data Scientist")
 
 <div>
   <a href="https://github.com/MaiLira">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MaiLira&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiLira&theme=onedark&hide_border=false"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=MaiLira&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiLira&theme=onedark&hide_border=false"/>
 </div>
 
 
