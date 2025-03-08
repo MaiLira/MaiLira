@@ -12,7 +12,7 @@ def check_need(you):
     if you == "Need Data Scientist":
         print("me manda um e-mail: maiaraslira@gmail.com")
     else:
-        print("Vamos trocar uma ideia sobre tecnologia e dados! 🚀")
+        print("Vamos trocar uma ideia sobre dados, machine learning ou IA! 🚀")
 
 check_need("Need Data Scientist")
 ```
